@@ -3,7 +3,7 @@ package colecoes;
 import java.util.HashSet;
 import java.util.Set;
 
-public class hashSet {
+public class HashSetClass {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
