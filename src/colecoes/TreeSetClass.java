@@ -3,7 +3,7 @@ package colecoes;
 import java.util.SortedSet;
 import java.util.TreeSet;
 
-public class treeSet {
+public class TreeSetClass {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
